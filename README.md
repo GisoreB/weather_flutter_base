@@ -3,10 +3,10 @@
 A flutter weather app which get essential weather data of a given city.
 
 ## Directory structure
-* **core** *
-* **data** *
-* **domain** *
-* **presentation** *
+* **core** 
+* **data** 
+* **domain** 
+* **presentation** 
 
 ## Screenshots
 
